@@ -376,6 +376,10 @@ Add an appropriate open-source license if you plan to distribute the project pub
 
 
 
+LIVE DEMO LINK:
+https://life-link-ai-app.vercel.app?_vercel_share=6hD30qGdYQ6uUSG6F4WitXZTIh3b5f9H
+
+
 ❤️ Vision
 A connected emergency healthcare ecosystem where the right information reaches the right people at the right time.
 LifeLink AI
