@@ -130,34 +130,21 @@ Patient → Ambulance → Hospital
 
 
 
-5. 👨‍⚕️ Doctor Connectivity
+**5. 👨‍⚕️ Doctor Connectivity**
 Doctors and medical professionals can be included in the emergency communication workflow.
 The platform is designed to make relevant emergency information available to the appropriate healthcare personnel.
 This can support faster awareness and better coordination.
 
 
 
-6. 👨‍👩‍👧 Family & Caregiver Support
+**6. 👨‍👩‍👧 Family & Caregiver Support**
 Medical emergencies affect not only patients but also their families.
 LifeLink AI provides a connected environment where caregivers can remain informed about important emergency updates.
 This helps reduce uncertainty and communication gaps during critical situations.
 
 
 
-7. 🤖 AI-Assisted Support
-AI can assist the platform in processing and organizing emergency information.
-The purpose of AI is to support emergency workflows rather than replace medical professionals.
-AI-assisted functionality can help with:
-Emergency information processing
-Intelligent assistance
-Information organization
-User guidance
-Faster access to relevant information
-LifeLink AI is intended as a decision-support and coordination platform, not as a replacement for qualified medical professionals.
-
-
-
-🔄 System Workflow
+**🔄 System Workflow**
 The overall LifeLink workflow can be represented as:
                 ┌───────────────┐
                 │    Patient    │
@@ -190,7 +177,7 @@ The overall LifeLink workflow can be represented as:
 
 
 
-🛠️ Technology Stack
+**🛠️ Technology Stack**
 The project is built as a modern web-based application.
 Frontend
 React
@@ -215,7 +202,7 @@ The exact services and APIs may vary depending on the deployment configuration.
 
 
 
-🏗️ Project Architecture
+**🏗️ Project Architecture**
 A simplified architecture of LifeLink AI:
                   ┌─────────────────────┐
                   │       User          │
@@ -251,7 +238,7 @@ A simplified architecture of LifeLink AI:
 
 
 
-🔐 Security & Privacy
+**🔐 Security & Privacy**
 Healthcare applications involve sensitive information, so privacy and security are important considerations.
 LifeLink AI is designed with the following principles in mind:
 Avoid unnecessary exposure of personal information
@@ -263,7 +250,7 @@ Follow secure API communication practices.
 
 
 
-💻 Installation
+**💻 Installation**
 1. Clone the repository
 git clone https://github.com/sandhya-it/life-link.git
 2. Navigate to the project
@@ -277,7 +264,7 @@ The application will be available through the local development URL shown in you
 
 
 
-🎨 User Experience
+**🎨 User Experience**
 LifeLink AI is designed with emergency situations in mind.
 The interface focuses on:
 Simple navigation
@@ -290,7 +277,7 @@ The objective is to make the platform usable even when users are under stress.
 
 
 
-🌍 Social Impact
+**🌍 Social Impact**
 LifeLink AI aims to contribute toward a more connected emergency healthcare ecosystem.
 Potential impact
 ⏱ Reduced Response Delays
@@ -306,7 +293,7 @@ The platform places the patient and their emergency needs at the center of the r
 
 
 
-Future enhancements:
+**Future enhancements:**
 1. ⌚ Wearable device integration
 2. 🏥 Integration with hospital information systems
 3. 📡 Offline / low-connectivity emergency mode
@@ -314,7 +301,7 @@ Future enhancements:
 
 
 
-⚠️ Limitations
+**⚠️ Limitations**
 LifeLink AI is currently a prototype / project implementation and should not be considered a replacement for professional emergency medical services.
 Potential limitations include:
 1. Dependence on internet connectivity
@@ -323,7 +310,7 @@ Potential limitations include:
 
 
 
-🧪 Testing
+**🧪 Testing**
 The application should be tested across:
 Different screen sizes
 Different browsers
@@ -336,7 +323,7 @@ Special attention should be given to emergency workflows because usability and r
 
 
 
-🚀 Deployment
+**🚀 Deployment**
 The application can be deployed using modern web hosting platforms.
 A production deployment should include:
 Production environment variables
@@ -350,37 +337,22 @@ Appropriate healthcare privacy controls
 
 
 
-🤝 Contribution
-Contributions and suggestions are welcome.
-Steps to contribute
-Fork the repository
-Create a new branch
-git checkout -b feature/your-feature
-Make your changes
-Commit your changes
-git commit -m "Add new feature"
-Push the branch
-git push origin feature/your-feature
-Open a Pull Request
-
-
-
-👩‍💻 Project Team
+**👩‍💻 Project Team**
 LifeLink AI was developed as an AI-powered healthcare technology project with the goal of improving emergency coordination through technology.
 
 
 
-📜 License
+**📜 License**
 This project is intended for educational, research, and prototype purposes.
 Add an appropriate open-source license if you plan to distribute the project publicly.
 
 
 
-LIVE DEMO LINK:
+**LIVE DEMO LINK:**
 https://life-link-ai-app.vercel.app?_vercel_share=6hD30qGdYQ6uUSG6F4WitXZTIh3b5f9H
 
 
-❤️ Vision
+**❤️ Vision**
 A connected emergency healthcare ecosystem where the right information reaches the right people at the right time.
 LifeLink AI
 Predict. Protect. Respond.
