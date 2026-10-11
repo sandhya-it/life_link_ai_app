@@ -2,7 +2,7 @@
 
 ### Predict. Protect. Respond.
 
-**LifeLink AI** is an AI-powered healthcare emergency response platform designed to improve coordination during critical medical situations.
+**LifeLink AI** is a healthcare emergency response platform designed to improve coordination during critical medical situations.
 
 In an emergency, every second matters. LifeLink AI brings patients, ambulances, hospitals, doctors, and family caregivers into a connected ecosystem to reduce communication gaps, improve emergency coordination, and help deliver timely assistance.
 
