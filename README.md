@@ -344,7 +344,6 @@ LifeLink AI was developed as an AI-powered healthcare technology project with th
 
 **📜 License**
 This project is intended for educational, research, and prototype purposes.
-Add an appropriate open-source license if you plan to distribute the project publicly.
 
 
 
